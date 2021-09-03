@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PGRP
 - 🌱 I’m currently learning PHP
-- 📫 How to reach me: Give me appreciate
+- 📫 How to reach me: PM Discord Fugion#0001 or email me
 - ⚡ Fun fact: I a nervous man
 
 
