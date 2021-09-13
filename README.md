@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abielfrl&layout=compact)](https://github.com/Abielfrl)
+[![Abiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abielfrl&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
