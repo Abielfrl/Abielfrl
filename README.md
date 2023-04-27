@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Luxinity
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on Solvine Alterjaya
+- 🌱 I’m currently learning JS
 - 📫 How to reach me: PM Discord Fugion#0001 or email me
 - ⚡ Fun fact: I a nervous man
 
